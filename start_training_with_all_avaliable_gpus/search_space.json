@@ -1,0 +1,8 @@
+{
+    "learning_rate": {"type":"uniform","value":[0.01, 0.2]},
+    "batch_size": {"type":"choice","value":[32,64]},
+    "optimizer": {"type":"choice","value":["rmsprop"]},
+    "max_number_of_steps": {"type":"choice", "value":[4000, 5000]},
+    "learning_rate_decay_type":{"type":"choice","value":["fixed"]}
+}
+

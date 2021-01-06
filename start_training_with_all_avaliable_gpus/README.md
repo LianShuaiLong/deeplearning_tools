@@ -7,5 +7,6 @@
 pynvml
 
 ## start
-### 在search_space.json里面设置各超参数的取值范围
-### python start.py开启训练
+在search_space.json里面设置各超参数的取值范围
+
+python start.py开启训练

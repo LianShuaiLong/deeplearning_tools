@@ -1,0 +1,5 @@
+## 用途
+用来收集各种在训练深度学习模型时候用到的小工具
+
+start_training_with_all_avaliable_gpus:用来检测当前所有可用GPU,并可以通过search_space.json设置训练超参的所有可能取值,每组超参可以在一块(或者多块)GPU上开启训练，可以用来搜索最优超参
+
